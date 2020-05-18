@@ -20,11 +20,11 @@ and put your apk in the ./apk directory.
 
 Choose your preferred regex from the list and run: 
  
-`./check.py "regex_here"`
+`./apk-twin-hashed.py "regex_here"`
 
 ### Regex list examples
 
-     ".*\.dex"	 		#select all dex files 
-     ".*"	 			#select all files
-     "myownregex"	 	#build yours
+     ".*\.dex"		#select all dex files 
+     ".*"		#select all files
+     "myownregex"	#build yours
 
