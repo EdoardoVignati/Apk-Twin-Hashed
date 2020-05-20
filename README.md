@@ -1,4 +1,4 @@
-## Apk hash checker
+## Apk twin-hashed
 
 This is a simple tool to check whether two (or more) apk are the same or not.
 
