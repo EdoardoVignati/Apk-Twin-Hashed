@@ -1,6 +1,6 @@
 ## Apk twin-hashed
 
-This is a simple tool to check whether two (or more) apk are the same or not.
+This is a simple tool to check whether two apk are the same or not.
 Firstly, a simple hash is done over the applications.
 As a second step this tool basically unzip the different apks and using a provided whitelist regex, compares the filtered files with 3 different hashing algorithms: MD5, SHA1 and SHA256
 
