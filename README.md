@@ -20,6 +20,6 @@ Choose your preferred regex from the list and run: ```$ ./apk-twin-hashed.py "re
 ```
 ".*\.dex"	    #select all dex files 
 ".*"		    #select all files
-"myownregex"		#build yours
+"myownregex"	#build yours
 ```
 
